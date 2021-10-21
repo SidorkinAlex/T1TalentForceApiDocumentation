@@ -422,12 +422,12 @@ created_by_name | ФИО пользователя, который оставил
 <a name="from_tf_to_jira"></a>
 # Работа с анкетой кандидата из TalentForce
 
-1.  [Смена статуса](#change_statusto_tf)
+1.  [Смена статуса](#change_statusto_jira)
 2.  [Отправка комментария](#post_comment_to_jira)
 
 
-<a name="change_statusto_tf"></a>
-## Отправка комментария
+<a name="change_statusto_jira"></a>
+## Отправка статуса
 
 *Раздел в работе*
 
@@ -442,7 +442,7 @@ parent_id | ID анкеты кандидата из CRM TF, если есть | 
 date_entered | Дата создания комментария. Формат данных: гггг-мм-чч чч:мм:сс | Да
 
 <a name="post_comment_to_jira"></a>
-## Отправка статуса
+## Отправка комментария
 
 *Раздел в работе*
 
