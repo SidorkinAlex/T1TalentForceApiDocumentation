@@ -17,6 +17,8 @@
 7.  [Изменение статуса анкеты](#change_status_to_tf)
 8.  [Возможные ошибки](#errors)
 
+Коллекция Postman [lkk_candidate_questionnaire.postman_collection.zip](https://github.com/SidorkinAlex/T1TalentForceApiDocumentation/files/7389677/lkk_candidate_questionnaire.postman_collection.zip)
+
 * URL для запросов:
 `{{talentforce.url}}/index.php` (если не указан дополнительно в описании)
 
