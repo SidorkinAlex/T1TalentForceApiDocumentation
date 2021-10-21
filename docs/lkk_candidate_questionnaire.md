@@ -423,8 +423,8 @@ created_by_name | ФИО пользователя, который оставил
 <a name="from_jira_to_tf"></a>
 # Работа с анкетой кандидата из TalentForce
 
-2.  [Смена статуса](#change_statusto_tf)
-1.  [Отправка комментария](#post_comment_to_jira)
+1.  [Смена статуса](#change_statusto_tf)
+2.  [Отправка комментария](#post_comment_to_jira)
 
 
 <a name="change_statusto_tf"></a>
