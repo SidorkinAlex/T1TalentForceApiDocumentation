@@ -16,7 +16,6 @@
 6.  [Загрузка файлов](#upload_file)
 7.  [Изменение статуса анкеты](#change_status_to_tf)
 8.  [Возможные ошибки](#errors)
-9.  [Список полей и значений ](#fields_list)
 
 * URL для запросов:
 `{{talentforce.url}}/index.php` (если не указан дополнительно в описании)
@@ -420,7 +419,7 @@ created_by_name | ФИО пользователя, который оставил
 ['status' => 'FAIL', 'error' => 'Status field is necessary'] | В запросе по изменению статуса не передан статус
 
 
-<a name="from_jira_to_tf"></a>
+<a name="from_tf_to_jira"></a>
 # Работа с анкетой кандидата из TalentForce
 
 1.  [Смена статуса](#change_statusto_tf)
