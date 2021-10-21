@@ -162,9 +162,6 @@ cb1a842f-c97d-fb95-387b-60bf6a19d0e2 | Конец периода | base | date_a
 cf1e08ef-7dac-3b26-eb99-60cc4031682c | Название компании | base | line_answer
 e81b11af-699b-ddf0-97b1-60cc4140834b | Начало периода | base | date_answer
 e9d52b64-1131-f4a3-9b2c-60cb469d2261 | Т1 Консалтинг моё первое место работы | base | option_answer
-![image](https://user-images.githubusercontent.com/74763962/138283294-8d1d95b0-ce19-49f5-963f-39741d6b7205.png)
-
-
 
 <a name="post_quest_data"></a>
 ## Передача анкеты кандидата
