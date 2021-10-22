@@ -315,6 +315,7 @@ created_by_name | ФИО пользователя, который оставил
 ['records' => '', 'errors' => 'No files received'] | Не передано файлов на entryPoint загруки 
 ['status' => 'FAIL', 'error' => 'Questionnaire data is empty'] | В запросе по добавлению новой анкеты пустое тело (без вопросов или без основной информации)
 ['status' => 'FAIL', 'error' => 'Status field is necessary'] | В запросе по изменению статуса не передан статус
+['status' => 'FAIL', 'error' => 'Stage transition restricted, try another transition']  |  При попытка перевести на этап СБ если такой переход запрещен
 
 
 <a name="from_tf_to_jira"></a>
