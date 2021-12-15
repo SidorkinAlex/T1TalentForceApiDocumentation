@@ -18,8 +18,8 @@
 
 где 
 
-* vacancyId - ID вакансии, по которой сформирован оффер
-* candidateId - ID кандидата
+ vacancyId - ID вакансии, по которой сформирован оффер
+ candidateId - ID кандидата
 
 Пример: {{talentforce.url}}/Api/V8/binary_offer/62ff37e3-cc68-eee2-7209-5fcf1019eba4/2c97ac19-7d66-6ea4-af07-61b9c62d320d
 
