@@ -15,5 +15,6 @@ T1TalentForceApiDocumentation — это инструментарий для и�
 
 * [Авторизация](docs/authorization.md)
 * [Вакансии](docs/vacancy.md)
+* [Кандидаты](docs/candidates.md)
 * [Анкета кандидата](docs/lkk_candidate_questionnaire.md)
 
