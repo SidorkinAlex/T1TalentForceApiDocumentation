@@ -2,9 +2,6 @@
 
 Используется стандартное [API Suite CRM](https://docs.suitecrm.com/developer/api/developer-setup-guide/)
 1.  [Получение оффера кандидата (.bin)](#get_binary_offer)
-2.  [Создание наименования вакансии](#create_vacancy_name)
-3.  [Получение user ID из user_name](#get_user_id)
-4.  [Создание вакансии](#create_vacancy)
 
 <a name="get_binary_offer"></a>
 ## Получение оффера кандидата (.bin)
@@ -20,8 +17,9 @@
 `{{talentforce.url}}Api/V8/binary_offer/vacancyId/candidateId`
 
 где 
-vacancyId - ID вакансии, по которой сформирован оффер
-candidateId - ID кандидата
+
+* vacancyId - ID вакансии, по которой сформирован оффер
+* candidateId - ID кандидата
 
 Пример: {{talentforce.url}}/Api/V8/binary_offer/62ff37e3-cc68-eee2-7209-5fcf1019eba4/2c97ac19-7d66-6ea4-af07-61b9c62d320d
 
